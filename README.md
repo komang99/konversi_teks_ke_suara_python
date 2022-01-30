@@ -1,2 +1,2 @@
-# konversi_teks_ke_suara_python
-Membuat Konversi Teks ke Suara dalam Python
+# Konversi Teks ke Suara dalam Python
+Membuat Konversi Teks ke Suara dalam Python sangat mudah dengan menggunakan library gTTS
